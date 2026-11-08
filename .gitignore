@@ -1,0 +1,19 @@
+# بيانات المشروع (مصدرها وزارة الثقافة) — متترفعش غير بتصريح
+kb/*.jsonl
+kb/*.json
+kb/*.npy
+!kb/README.md
+*.xlsx
+*.xls
+*.csv
+
+# أسرار
+.env
+*.key
+
+# ملفات مولّدة
+assets/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

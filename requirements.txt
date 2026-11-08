@@ -1,0 +1,9 @@
+torch==2.9.1
+transformers
+sentence-transformers
+qdrant-client
+numpy
+edge-tts
+google-genai
+anthropic
+spaces
